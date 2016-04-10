@@ -6,6 +6,8 @@ To run, execute:
 
     ./run.sh &
 
+---
+
 Or edit the `.desktop` file to run it from launcher in the future:
 
 Open `/usr/share/applications/upwork.desktop`
